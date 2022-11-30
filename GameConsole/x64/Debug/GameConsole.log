@@ -1,0 +1,3 @@
+﻿  GameConsole.cpp
+C:\Users\MSI\source\repos\GameConsole\GameConsole.cpp(235,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  GameConsole.vcxproj -> C:\Users\MSI\source\repos\GameConsole\x64\Debug\GameConsole.exe
